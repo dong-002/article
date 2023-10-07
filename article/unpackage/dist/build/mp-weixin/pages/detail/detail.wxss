@@ -1,0 +1,1 @@
+.detail{padding:30rpx}.detail .title{font-size:44rpx;margin-bottom:25rpx}.detail .info{font-size:30rpx;color:#949494;padding-bottom:40rpx}.detail .content{font-size:36rpx;line-height:72rpx}.detail .btn{display:flex;justify-content:right}

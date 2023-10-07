@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/add/add",
+    "pages/edit/edit",
+    "pages/detail/detail",
+    "pages/file/file"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#2b9939",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
